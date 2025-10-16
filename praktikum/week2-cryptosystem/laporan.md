@@ -100,9 +100,9 @@ Kriptosistem merupakan fondasi penting dalam menjaga keamanan komunikasi dengan 
 (Tuliskan bukti commit Git yang relevan.  
 Contoh:
 ```
-commit abc12345
-Author: Nama Mahasiswa <email>
-Date:   2025-09-20
+commit 
+Author: Nafis Ramadhan Khoeru Jati <230202769>
+Date:   2025-10-16
 
     week2-cryptosystem: implementasi Caesar Cipher dan laporan )
 ```
