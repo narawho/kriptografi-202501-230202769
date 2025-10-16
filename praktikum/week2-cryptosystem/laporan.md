@@ -38,7 +38,7 @@ Dalam praktiknya, kedua jenis sistem ini sering dikombinasikan untuk memanfaatka
 ---
 
 ## 5. Source Code
-def encrypt(plaintext, key):
+    def encrypt(plaintext, key):
     result = ""
     for char in plaintext:
         if char.isalpha():
@@ -48,7 +48,7 @@ def encrypt(plaintext, key):
             result += char
     return result
 
-def decrypt(ciphertext, key):
+    def decrypt(ciphertext, key):
     result = ""
     for char in ciphertext:
         if char.isalpha():
@@ -58,7 +58,7 @@ def decrypt(ciphertext, key):
             result += char
     return result
 
-if __name__ == "__main__":
+    if __name__ == "__main__":
     message = "<230202769><Nafis_Ramadhan_KJ>"  
     key = 5
 
@@ -101,7 +101,7 @@ Kriptosistem merupakan fondasi penting dalam menjaga keamanan komunikasi dengan 
 Contoh:
 ```
 commit 
-Author: Nafis Ramadhan Khoeru Jati <230202769>
+Author: Nafis Ramadhan Khoeru Jati <nafisramadhankhoerujati@gmail.com>
 Date:   2025-10-16
 
     week2-cryptosystem: implementasi Caesar Cipher dan laporan )
