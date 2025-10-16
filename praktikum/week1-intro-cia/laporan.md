@@ -7,14 +7,6 @@ Kelas: 5IKRB
 
 ---
 
-Minggu ke-: 1
-Topik: Sejarah Kriptografi & Prinsip CIA  
-Nama: Reza Dwi Nugroho  
-NIM: 230202781  
-Kelas: 5 IKRB 
-
----
-
 ## 1. Tujuan
 - Menjelaskan sejarah dan evolusi kriptografi dari masa klasik hingga modern.
 - Menyebutkan prinsip Confidentiality, Integrity, and Availability (CIA) yang benar.
@@ -83,4 +75,5 @@ Praktikum minggu pertama berhasil diselesaikan dengan penyiapan repositori GitHu
 ## 9. Daftar Pustaka
 
 ---
+
 
