@@ -75,7 +75,7 @@ Kriptosistem merupakan fondasi penting dalam menjaga keamanan komunikasi dengan 
 
 ![Hasil Eksekusi](screenshots/output.png)
 ![Hasil Input](screenshots/input.png)
-![Hasil Output](screenshots/output.png)
+![Hasil Output](screenshot/output.png)
 )
 
 ---
