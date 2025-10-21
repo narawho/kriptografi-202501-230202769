@@ -1,6 +1,6 @@
 # Laporan Praktikum Kriptografi
 Minggu ke-: 3
-Topik: [judul praktikum]  
+Topik: Aritmetika Modular, GCD, Bilangan Prima, Logaritma Diskrit  
 Nama: Nafis Ramadhan Khoeru Jati
 NIM: 230202769
 Kelas: 5IKRB  
@@ -17,16 +17,17 @@ Setelah mengikuti praktikum ini, mahasiswa diharapkan mampu:
 ---
 
 ## 2. Dasar Teori
-(Ringkas teori relevan (cukup 2–3 paragraf).  
-Contoh: definisi cipher klasik, konsep modular aritmetika, dll.  )
+Modular arithmetic adalah sistem perhitungan yang bekerja berdasarkan sisa hasil bagi suatu bilangan terhadap bilangan modulus tertentu. Dua bilangan dikatakan kongruen jika memiliki sisa pembagian yang sama terhadap modulus yang digunakan, ditulis sebagai 
+𝑎≡𝑏 (mod 𝑛) a≡b (modn). Konsep ini banyak digunakan dalam kriptografi karena memungkinkan operasi pada bilangan besar tetap efisien dan aman, serta menjadi dasar dari algoritma seperti RSA dan Diffie-Hellman.
+Greatest Common Divisor (GCD) atau Faktor Persekutuan Terbesar adalah bilangan terbesar yang dapat membagi dua bilangan tanpa sisa. Perhitungannya umumnya dilakukan dengan Algoritma Euclidean yang cepat dan sederhana. Dalam kriptografi, GCD digunakan untuk memastikan dua bilangan bersifat relatif prima, sehingga memungkinkan perhitungan invers modular yang penting dalam pembentukan kunci publik dan privat pada sistem seperti RSA.
 
 ---
 
 ## 3. Alat dan Bahan
-(- Python 3.x  
+(- Python 3.12.2
 - Visual Studio Code / editor lain  
 - Git dan akun GitHub  
-- Library tambahan (misalnya pycryptodome, jika diperlukan)  )
+)
 
 ---
 
