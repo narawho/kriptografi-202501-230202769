@@ -24,7 +24,7 @@ Greatest Common Divisor (GCD) atau Faktor Persekutuan Terbesar adalah bilangan t
 ---
 
 ## 3. Alat dan Bahan
-(- Python 3.12.2
+( - Python 3.12.2
 - Visual Studio Code / editor lain  
 - Git dan akun GitHub  
 )
