@@ -52,7 +52,7 @@ pip install pycryptodome
 ---
 
 ## 5. Source Code
-```
+```python
 from Crypto.PublicKey import RSA
 from Crypto.Signature import pkcs1_15
 from Crypto.Hash import SHA256
@@ -150,5 +150,6 @@ Date:   2025-12-8
 
     week9-digital-signature: implementasi RSA digital signature dan laporan
 ```
+
 
 
