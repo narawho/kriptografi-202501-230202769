@@ -52,6 +52,7 @@ pip install pycryptodome
 ---
 
 ## 5. Source Code
+```
 from Crypto.PublicKey import RSA
 from Crypto.Signature import pkcs1_15
 from Crypto.Hash import SHA256
@@ -100,7 +101,7 @@ except (ValueError, TypeError):
 print()
 
 print("=== SELESAI ===")
-
+```
 ---
 
 ## 6. Hasil dan Pembahasan
@@ -149,4 +150,5 @@ Date:   2025-12-8
 
     week9-digital-signature: implementasi RSA digital signature dan laporan
 ```
+
 
