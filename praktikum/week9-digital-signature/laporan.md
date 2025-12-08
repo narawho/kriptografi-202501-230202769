@@ -105,9 +105,7 @@ print("=== SELESAI ===")
 ---
 
 ## 6. Hasil dan Pembahasan
-![Hasil Eksekusi](screenshots/output.png)
-![Hasil Input](screenshots/input.png)
-![Hasil Output](screenshots/output.png)
+![Hasil Eksekusi](screenshot/hasil(2).png)
 )
 
 ---
@@ -150,6 +148,7 @@ Date:   2025-12-8
 
     week9-digital-signature: implementasi RSA digital signature dan laporan
 ```
+
 
 
 
