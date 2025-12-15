@@ -111,9 +111,9 @@ Berdasarkan praktikum yang dilakukan, dapat disimpulkan bahwa PKI memiliki peran
 
 ## 10. Commit Log
 ```
-commit abc12345
-Author: Nama Mahasiswa <email>
-Date:   2025-09-20
+week10-pki
+Author: Nafis Ramadhan Khoeru Jati <nafisramadhankhoerujati@gmail.com>
+Date:   2025-12-15
 
-    week2-cryptosystem: implementasi Caesar Cipher dan laporan )
+    week10-pki dan laporan
 ```
