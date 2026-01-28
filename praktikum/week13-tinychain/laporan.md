@@ -114,12 +114,9 @@ Berdasarkan praktikum yang dilakukan, dapat disimpulkan bahwa fungsi hash dan Pr
 ---
 
 ## 10. Commit Log
-(Tuliskan bukti commit Git yang relevan.  
-Contoh:
 ```
-commit abc12345
-Author: Nama Mahasiswa <email>
-Date:   2025-09-20
+Author: Nafis Ramadhan Khoeru Jati <nafisramadhankhoerujati@gmail.com>
+Date:   2026-01-28
 
-    week2-cryptosystem: implementasi Caesar Cipher dan laporan )
+    week13-tinychain - proof of work (pow)
 ```
